@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since<br>📚 I'm currently learning<br>🎯 Goals:<br>🎲 Fun fact:</p>
+<p data-importer="text" align="left">✨ Creating bugs since 2003<br>📚 I'm currently learning Machine Learning algorithms<br>🎯 Goals: become an AI Engeneer<br>🎲 Fun fact: I love minecraft!</p>
 
 ###
 
