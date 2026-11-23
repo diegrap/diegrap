@@ -20,9 +20,9 @@
 <!-- ==================== ABOUT ME ==================== -->
 ## About Me
 
-Heelo, I'm a Software Developer and **Information Systems** student at **UNICAMP**, currently building Digital Health web applications at **Samsung R&D Institute Brazil (SRBR)**.
+Hello, my name is Diego and I'm a Software Developer and **Information Systems** student at **UNICAMP**, currently building Digital Health web applications at **Samsung R&D Institute Brazil (SRBR)**.
 
-My main focus is **AI Engineering**—designing, integrating, and evaluating **Machine Learning** and **LLM-powered systems** that are reliable, measurable, and production-ready. Coming from a background in full-stack development and automated QA testing, I bridge the gap between AI experimentation and solid software engineering.
+My main focus is becoming an **AI Engineer** to design, integrate and evaluate **Machine Learning/LLM-powered** systems that are reliable, measurable, and production-ready. Coming from a background in full-stack development and automated QA testing, I bridge the gap between AI experimentation and solid software engineering.
 
 - **Currently working on:** Web applications in Digital Health and GenAI-assisted engineering workflows
 - **Focusing on:** Multi-Agent Systems (`LangGraph`), RAG architectures, and Parameter-Efficient LLM Fine-Tuning (`LoRA`/`QLoRA`)
@@ -100,9 +100,6 @@ My main focus is **AI Engineering**—designing, integrating, and evaluating **M
   - Delivered web and mobile applications (**Flutter**, **Node.js**, **HTML/CSS**) for three real-world client companies.
 
 </details>
-
----
-
 <!-- ==================== FOOTER BANNER ==================== -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&theme=cobalt" alt="Footer Banner" />
